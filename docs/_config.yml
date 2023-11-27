@@ -4,7 +4,7 @@ baseurl: /sgs.github.io
 # Site settings
 title: SGS Constructions
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "SGS Real Estate Constructions. Renovation Services. High quality affordable homes in Coimbatore."
 
 
 # Team names, titles and social links
@@ -16,19 +16,6 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Vignesh
-  pic: 2
-  position: Web Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
